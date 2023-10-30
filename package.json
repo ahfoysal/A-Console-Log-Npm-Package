@@ -1,6 +1,6 @@
 {
-  "name": "better-console",
-  "version": "1.0.0",
+  "name": "stack-console",
+  "version": "1.0.7",
   "description": "A package for make your console better.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/hosan30/better-consolelog#readme",
   "devDependencies": {
+    "@types/node": "^20.8.9",
     "typescript": "^5.2.2"
   },
   "files": [
